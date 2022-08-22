@@ -1,6 +1,6 @@
 ###  Hi, I'am Tim Schenkel👋 
 
-I'am currently working as a network engineer. Besides my job run my own blog where I post about my homelab and all kinds of related things.
+I'am currently working as a network engineer. Besides my job I run my own blog where I post about my homelab and all kinds of related things.
 
 
 #### 📫 Get in touch
