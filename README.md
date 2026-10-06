@@ -9,7 +9,6 @@ I'm a network engineer with a passion for all things related to technology and n
 - 💡 I enjoy finding creative solutions to complex networking challenges, optimizing performance, and ensuring robust security measures.
 - 💬 Ask me about network design, troubleshooting, and network automation. I'm always eager to share knowledge and help fellow enthusiasts.
 - 📝 I regularly write blog posts to document my experiences, share tips and tricks, and provide insights into my networking journey.
-- 🌐 You can find my blog at [blog.timschenkel.nl](https://blog.timschenkel.nl), where I discuss various topics such as homelab setups, network automation, and networking best practices.
 - 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/timschenkel/) to explore networking opportunities or discuss any interesting projects.
 
 Thank you for stopping by! Feel free to reach out, and let's connect and exchange ideas in the fascinating world of networking.
